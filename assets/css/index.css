@@ -102,6 +102,7 @@ footer {
 
     menu > li {
         padding-left: 1rem;
+        margin-bottom: 1em;
     }
 
     .nav-toggle-label {
@@ -114,7 +115,7 @@ footer {
         margin:  0 0.5rem;
     }
 
-    #main {
+    main {
         margin-top: 79px;
     }
 }
