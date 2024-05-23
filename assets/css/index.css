@@ -111,7 +111,7 @@ main {
     padding: 30px;
 }
 
-#signup-form>h2 {
+#signup-form > h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
@@ -307,6 +307,10 @@ main {
     #benefits-mental > div {
         text-align: end;
         align-self: flex-end;
+    }
+
+    #photos {
+        column-count: 3;
     }
 
 /* Large devices (laptops and desktops, 992px and up) */
